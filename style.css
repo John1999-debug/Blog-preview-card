@@ -1,5 +1,6 @@
 body{
-    background-color: #ffffff;
+    background-color: #F4D04E;
+    font-family: 'Figtree'
 }
 .main{
     width: 327px;
@@ -42,7 +43,7 @@ svg{
 .item-3{
     width: 123px;
     height: 18px;
-    margin: 10px 20px;
+    margin: 20px;
     font-weight: 500;
     font-size: 12px;
 
@@ -50,7 +51,7 @@ svg{
 .item-4{
     width: 279px;
     height: 93px;
-    margin: 0px 20px;
+    margin: 20px;
 }
 button{
     margin-bottom: 10px;
@@ -114,13 +115,13 @@ p1{
     }
     .item-3{
         width: 140px;
-        font-size: 13px;
+        font-size: 15px;
     }
     .item-4{
         width: 311px;
     }
     button{
-        font-size: 20px;
+        font-size: 24px;
         font-weight:800;
     }
     p1{
